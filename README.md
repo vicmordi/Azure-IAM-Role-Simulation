@@ -31,7 +31,6 @@ IAM solutions like Azure AD help administrators assign, control, and audit permi
 - Role-Based Access Control (RBAC)
 - Azure Resource Group Permissions
 - User & Group Configuration in Azure Portal
-- Testing IAM policies and login behavior
 - Cloud Security Principles & Governance
 
 ## 📸 Project Screenshots
